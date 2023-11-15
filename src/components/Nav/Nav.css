@@ -1,0 +1,18 @@
+.mainConatiner{
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navLinks{
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+}
+
+.navLinks>a{
+    margin: 10px;
+    padding: 10px;
+}
